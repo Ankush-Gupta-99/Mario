@@ -45,3 +45,14 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.31 to 1.1.33
   com.unity.timeline from version 1.6.4 to 1.6.5
   com.unity.visualscripting from version 1.7.8 to 1.9.1
+
+=== Thu Feb  8 14:06:59 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.5
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.26 to 3.0.27
+  com.unity.timeline from version 1.6.5 to 1.7.6
